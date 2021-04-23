@@ -1,21 +1,21 @@
-# !!!Replace with your unique project name!!!
+# Color Blindess Project
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+The coding here will state 5 different RGB color values and save both the 5 new values into 'colornames.txt'
 
 ### v0.2 Updates
 
-*Coming soon*
+Almost everything here is new for this updated code as for the first I was stuck and did not get far but I am now able to open the file and now able to find the 5 colors
 
 ### v1.0 Updates
 
-*Coming soon*
+Was unable to have an open file and some of the functions were not correct many updates are to applied in second deliverable.
 
 
 ## Developer
 
-!!!Replace with your name!!!
+Alejandro Diaz
 
 ## Example
 
@@ -40,11 +40,11 @@ Here is an example of the program running:
 
 ### Console Input and Output
 
-!!!Replace with a summary and examples of how input and output have been used effectively and appropriately!!!
+My Input and my Output currently have no proper use because my code is not entirely completed
 
 ### Decisions
 
-!!!Replace with a summary and examples of how multiple decision constructs have been used effectively and appropriately!!!
+This code makes a few decisions for example if the user input is acceptable and can rewrite a message if there is an error. It can aslo have the decision to make a special message if needed.
 
 ### Iteration
 
